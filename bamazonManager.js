@@ -178,7 +178,7 @@ function add(id) {
             },
 
             {
-                id: choiceId
+                id: id
             }
 
         ], function(error, results){
