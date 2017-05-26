@@ -53,7 +53,7 @@ Then you will type in the amount that you want to order.
 
 ### Add New Products
 
-When you select this command, you will be given several prompt to complete. At the end of it you will have added a new product.
+When you select this command, you will be prompted to give several inputs. At the end of it you will have added a new product.
 
 ![screenshot 25](https://cloud.githubusercontent.com/assets/22058682/26481069/16540e22-41a4-11e7-8240-a431764b331b.png)
 
