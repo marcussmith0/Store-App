@@ -39,7 +39,7 @@ If you select this choice, a list of all the product that are available in the s
 
 When you run this command only the products that have a quantity that is less than 5.
 
-If all products are greater than 5 then `"You have no low inventory"` will print to the screen.
+If all products are greater than 5 then `"There are no items that are below 5 in quantity"` will print to the screen.
 
 ![screenshot 22](https://cloud.githubusercontent.com/assets/22058682/26480700/5c465424-41a1-11e7-8204-41253fb383b2.png)
 
